@@ -4,8 +4,8 @@ This repository contains a reactive single-page application that aims to mimic t
 
 ## Final Product
 
+<img src="https://github.com/elliottthomlison/Instagram-Clone/blob/master/images/Instagram.png?raw=true"/>
+
 - `git clone` the project and then perform `npm install`
 - Runs the app in the development mode.
 - Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-
