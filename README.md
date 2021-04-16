@@ -1,5 +1,6 @@
 
-# React-Instagram-Clone
+# React Instagram Clone
+
 A reactive Single-Page Instagram-Clone with some of the features!!
 
 ## Final Product
