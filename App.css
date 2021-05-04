@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+}
+
+.app {
+  background-color: #fafafa;
+  height: 100vh;
+}
+
+/* this object-fit property will assure the word instagram doesn't change */
+.app__header {
+  background-color: white;
+  /* padding INSIDE; margin OUTSIDE */
+  padding: 20px;
+  border-bottom: 1px solid lightgray;
+  object-fit: contain;
+}
+
